@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew P Salomon on Justin Fear</title>
+    <link>/authors/matthew-p-salomon/</link>
+    <description>Recent content in Matthew P Salomon on Justin Fear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/matthew-p-salomon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Wright stuff: reimagining path analysis reveals novel components of the sex determination hierarchy in Drosophila melanogaster</title>
+      <link>/publication/fear-2015-zs/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fear-2015-zs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

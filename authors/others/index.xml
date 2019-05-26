@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others on Justin Fear</title>
+    <link>/authors/others/</link>
+    <description>Recent content in  others on Justin Fear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SECIMTools: a suite of metabolomics data analysis tools</title>
+      <link>/publication/kirpich-2018-cg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kirpich-2018-cg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging biological replicates to improve analysis in ChIP-seq experiments</title>
+      <link>/publication/yang-2014-ew/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yang-2014-ew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>142 EFFECT OF GRANULOCYTE-MACROPHAGE COLONY-STIMULATING FACTOR AND INSULIN-LIKE GROWTH FACTOR-1 ON DEVELOPMENT AND POST …</title>
+      <link>/publication/loureiro-2008-nj/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/loureiro-2008-nj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

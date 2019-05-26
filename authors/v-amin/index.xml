@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V Amin on Justin Fear</title>
+    <link>/authors/v-amin/</link>
+    <description>Recent content in V Amin on Justin Fear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/v-amin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Allelic imbalance in Drosophila hybrid heads: exons, isoforms, and evolution</title>
+      <link>/publication/graze-2012-bu/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/graze-2012-bu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

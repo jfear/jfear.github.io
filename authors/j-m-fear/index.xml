@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J M Fear on Justin Fear</title>
+    <link>/authors/j-m-fear/</link>
+    <description>Recent content in J M Fear on Justin Fear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/j-m-fear/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Allelic imbalance in Drosophila hybrid heads: exons, isoforms, and evolution</title>
+      <link>/publication/graze-2012-bu/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/graze-2012-bu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differences in thermoregulatory ability between slick-haired and wild-type lactating Holstein cows in response to acute heat stress</title>
+      <link>/publication/dikmen-2008-kz/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dikmen-2008-kz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>142 EFFECT OF GRANULOCYTE-MACROPHAGE COLONY-STIMULATING FACTOR AND INSULIN-LIKE GROWTH FACTOR-1 ON DEVELOPMENT AND POST …</title>
+      <link>/publication/loureiro-2008-nj/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/loureiro-2008-nj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

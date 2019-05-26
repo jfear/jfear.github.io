@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Bloom on Justin Fear</title>
+    <link>/authors/david-bloom/</link>
+    <description>Recent content in David Bloom on Justin Fear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/david-bloom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reliable Detection of Herpes Simplex Virus Sequence Variation by High-Throughput Resequencing</title>
+      <link>/publication/morse-2017-et/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/morse-2017-et/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

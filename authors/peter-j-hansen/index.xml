@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter J Hansen on Justin Fear</title>
+    <link>/authors/peter-j-hansen/</link>
+    <description>Recent content in Peter J Hansen on Justin Fear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/peter-j-hansen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheating death at the dawn of life: developmental control of apoptotic repression in the preimplantation embryo</title>
+      <link>/publication/hansen-2011-wk/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hansen-2011-wk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developmental changes in expression of genes involved in regulation of apoptosis in the bovine preimplantation embryo</title>
+      <link>/publication/fear-2011-mu/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fear-2011-mu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colony-stimulating factor 2 (CSF-2) improves development and posttransfer survival of bovine embryos produced in vitro</title>
+      <link>/publication/loureiro-2009-zo/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/loureiro-2009-zo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
