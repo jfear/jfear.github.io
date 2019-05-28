@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Justin Fear</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 16:42:42 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>scRNA-Seq</title>
+      <link>/tags/scrna-seq/</link>
+      <pubDate>Tue, 28 May 2019 16:42:42 -0400</pubDate>
+      
+      <guid>/tags/scrna-seq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Drosophila; Genetics of Sex; RNA-seq; doublesex; gene expression; sex bias; sex determination; sex hierarchy; transcriptome</title>
