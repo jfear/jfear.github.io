@@ -6,10 +6,30 @@
     <description>Recent content on Justin Fear</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 16:42:42 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 10:40:00 -0400</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Club (SRA)</title>
+      <link>/talk/20190918_dataclub/</link>
+      <pubDate>Wed, 18 Sep 2019 10:40:00 -0400</pubDate>
+      
+      <guid>/talk/20190918_dataclub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SRA</title>
+      <link>/project/sra/</link>
+      <pubDate>Tue, 17 Sep 2019 19:00:20 -0400</pubDate>
+      
+      <guid>/project/sra/</guid>
+      <description>&lt;p&gt;The sequence read archive (SRA) houses all public sequencing data.
+This project aims to make the data sets available in the SRA more useful for Drosophilists.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Larval Testis</title>
