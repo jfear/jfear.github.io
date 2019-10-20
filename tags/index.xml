@@ -6,33 +6,24 @@
     <description>Recent content in Tags on Justin Fear</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2019 15:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Lab Meeting</title>
-      <link>/tags/lab-meeting/</link>
-      <pubDate>Tue, 15 Oct 2019 15:30:00 +0000</pubDate>
+      <title>PacBio</title>
+      <link>/tags/pacbio/</link>
+      <pubDate>Wed, 23 Oct 2019 12:00:00 -0400</pubDate>
       
-      <guid>/tags/lab-meeting/</guid>
+      <guid>/tags/pacbio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DataClub</title>
-      <link>/tags/dataclub/</link>
-      <pubDate>Wed, 18 Sep 2019 10:40:00 -0400</pubDate>
-      
-      <guid>/tags/dataclub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SRA</title>
+      <title>sra</title>
       <link>/tags/sra/</link>
-      <pubDate>Wed, 18 Sep 2019 10:40:00 -0400</pubDate>
+      <pubDate>Wed, 23 Oct 2019 12:00:00 -0400</pubDate>
       
       <guid>/tags/sra/</guid>
       <description></description>
