@@ -37,13 +37,13 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/sra/</loc>
     <lastmod>2019-10-23T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/sra/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-10-23T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -204,19 +204,19 @@
   </url>
   
   <url>
-    <loc>/tags/drosophila-genetics-of-sex-rna-seq-doublesex-gene-expression-sex-bias-sex-determination-sex-hierarchy-transcriptome/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/drosophila-allele-specific-expression-cis-or-trans-effects-genetic-variation-purifying-selection-regulatory-mutations-transcription/</loc>
+    <loc>/tags/drosophila/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/felicia-n-new/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetics-of-sex/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -258,6 +258,12 @@
   </url>
   
   <url>
+    <loc>/tags/rna-seq/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/rita-m-graze/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -276,6 +282,78 @@
   
   <url>
     <loc>/authors/tiffany-s-howard/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/allele-specific-expression/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cis-or-trans-effects/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/doublesex/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-expression/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetic-variation/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/purifying-selection/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regulatory-mutations/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sex-bias/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sex-determination/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sex-hierarchy/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transcription/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transcriptome/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

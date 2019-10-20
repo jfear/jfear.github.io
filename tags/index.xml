@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>sra</title>
+      <title>SRA</title>
       <link>/tags/sra/</link>
       <pubDate>Wed, 23 Oct 2019 12:00:00 -0400</pubDate>
       
@@ -39,20 +39,137 @@
     </item>
     
     <item>
-      <title>Drosophila; Genetics of Sex; RNA-seq; doublesex; gene expression; sex bias; sex determination; sex hierarchy; transcriptome</title>
-      <link>/tags/drosophila-genetics-of-sex-rna-seq-doublesex-gene-expression-sex-bias-sex-determination-sex-hierarchy-transcriptome/</link>
+      <title>Drosophila</title>
+      <link>/tags/drosophila/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/drosophila-genetics-of-sex-rna-seq-doublesex-gene-expression-sex-bias-sex-determination-sex-hierarchy-transcriptome/</guid>
+      <guid>/tags/drosophila/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Drosophila; allele-specific expression; cis- or trans-effects; genetic variation; purifying selection; regulatory mutations; transcription</title>
-      <link>/tags/drosophila-allele-specific-expression-cis-or-trans-effects-genetic-variation-purifying-selection-regulatory-mutations-transcription/</link>
+      <title>Genetics of Sex</title>
+      <link>/tags/genetics-of-sex/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/drosophila-allele-specific-expression-cis-or-trans-effects-genetic-variation-purifying-selection-regulatory-mutations-transcription/</guid>
+      <guid>/tags/genetics-of-sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA-seq</title>
+      <link>/tags/rna-seq/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>allele-specific expression</title>
+      <link>/tags/allele-specific-expression/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/allele-specific-expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cis- or trans-effects</title>
+      <link>/tags/cis-or-trans-effects/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cis-or-trans-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doublesex</title>
+      <link>/tags/doublesex/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/doublesex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gene expression</title>
+      <link>/tags/gene-expression/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gene-expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic variation</title>
+      <link>/tags/genetic-variation/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purifying selection</title>
+      <link>/tags/purifying-selection/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/purifying-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regulatory mutations</title>
+      <link>/tags/regulatory-mutations/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regulatory-mutations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sex bias</title>
+      <link>/tags/sex-bias/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sex-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sex determination</title>
+      <link>/tags/sex-determination/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sex-determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sex hierarchy</title>
+      <link>/tags/sex-hierarchy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sex-hierarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcription</title>
+      <link>/tags/transcription/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transcription/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcriptome</title>
+      <link>/tags/transcriptome/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transcriptome/</guid>
       <description></description>
     </item>
     

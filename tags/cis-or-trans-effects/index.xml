@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cis- or trans-effects on Justin Fear</title>
+    <link>/tags/cis-or-trans-effects/</link>
+    <description>Recent content in cis- or trans-effects on Justin Fear</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cis-or-trans-effects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Buffering of Genetic Regulatory Networks in Drosophila melanogaster</title>
+      <link>/publication/fear-2016-tm/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fear-2016-tm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
