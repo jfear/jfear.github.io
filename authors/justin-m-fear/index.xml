@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin M Fear on Justin Fear</title>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Organizing Data Science Porjects</title>
+      <title>Organizing Data Science Projects</title>
       <link>/talk/nci/</link>
       <pubDate>Thu, 12 Dec 2019 09:00:00 -0400</pubDate>
       
